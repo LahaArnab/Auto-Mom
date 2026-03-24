@@ -57,6 +57,7 @@ cd auto-mom-generator
 # Install dependencies
 pip install streamlit playwright pyaudiowpatch google-genai reportlab python-dotenv numpy soundfile
 pip install -r requirements.txt
+python -m playwright install
 
 # Install Playwright browser binaries
 playwright install chromium
