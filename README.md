@@ -13,6 +13,8 @@ Built with **Streamlit**, **Playwright**, and **Google Gemini 3 Flash**.
 
 <img width="1914" height="786" alt="Image" src="https://github.com/user-attachments/assets/39d9e7c3-89c3-4848-8f96-ef9d15e3ab76" />
 
+<img width="827" height="730" alt="Image" src="https://github.com/user-attachments/assets/f4dcd995-fd38-46d3-b414-e123ce4e9105" />
+
 ---
 ## ✨ Features
 
